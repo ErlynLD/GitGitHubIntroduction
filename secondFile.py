@@ -1,2 +1,3 @@
 Line adden on remote.
-Line 2 added on local.
+
+Line 3 added on remote.
